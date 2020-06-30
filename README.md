@@ -23,3 +23,6 @@ https://covidtracking.com/data
 
 US population estimates taken from https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
 The population estimate was then edited into a CSV by copying and pasting state, county, and 2019 population estimates into a new file to have the most pertinent and important information available
+
+Land size data was taken from here https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html#LND
+I used the most recen t(2010) total land aread per county, in square miles, rather than total area as that includes water area, my thinking being we can look at population density also if we wanted to. 
