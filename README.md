@@ -18,3 +18,5 @@ https://covidtracking.com/data
 [Has a few potential sources/locations for data](https://guides.ucsf.edu/COVID19/data)
 
 [World Health Organization](https://covid19.who.int/) : US data CSV taken from here
+
+[New York Times GitHub](https://github.com/nytimes/covid-19-data) Cases in US by State and County, as well as country-wide cases
