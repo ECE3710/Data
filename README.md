@@ -20,3 +20,6 @@ https://covidtracking.com/data
 [World Health Organization](https://covid19.who.int/) : US data CSV taken from here
 
 [New York Times GitHub](https://github.com/nytimes/covid-19-data) Cases in US by State and County, as well as country-wide cases
+
+US population estimates taken from https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
+The population estimate was then edited into a CSV by copying and pasting state, county, and 2019 population estimates into a new file to have the most pertinent and important information available
