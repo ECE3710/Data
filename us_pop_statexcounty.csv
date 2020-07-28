@@ -1,6 +1,6 @@
 FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 0,US,United States,328239523
-1000,AL,Alabama,4903185
+1,AL,Alabama,4903185
 1001,AL,Autauga County,55869
 1003,AL,Baldwin County,223234
 1005,AL,Barbour County,24686
@@ -68,7 +68,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 1129,AL,Washington County,16326
 1131,AL,Wilcox County,10373
 1133,AL,Winston County,23629
-2000,AK,Alaska,731545
+2,AK,Alaska,731545
 2013,AK,Aleutians East Borough,3337
 2016,AK,Aleutians West Census Area,5634
 2020,AK,Anchorage Municipality,288000
@@ -98,7 +98,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 2275,AK,Wrangell City and Borough,2502
 2282,AK,Yakutat City and Borough,579
 2290,AK,Yukon-Koyukuk Census Area,5230
-4000,AZ,Arizona,7278717
+4,AZ,Arizona,7278717
 4001,AZ,Apache County,71887
 4003,AZ,Cochise County,125922
 4005,AZ,Coconino County,143476
@@ -114,7 +114,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 4023,AZ,Santa Cruz County,46498
 4025,AZ,Yavapai County,235099
 4027,AZ,Yuma County,213787
-5000,AR,Arkansas,3017804
+5,AR,Arkansas,3017804
 5001,AR,Arkansas County,17486
 5003,AR,Ashley County,19657
 5005,AR,Baxter County,41932
@@ -190,7 +190,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 5145,AR,White County,78753
 5147,AR,Woodruff County,6320
 5149,AR,Yell County,21341
-6000,CA,California,39512223
+6,CA,California,39512223
 6001,CA,Alameda County,1671329
 6003,CA,Alpine County,1129
 6005,CA,Amador County,39752
@@ -249,7 +249,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 6111,CA,Ventura County,846006
 6113,CA,Yolo County,220500
 6115,CA,Yuba County,78668
-8000,CO,Colorado,5758736
+8,CO,Colorado,5758736
 8001,CO,Adams County,517421
 8003,CO,Alamosa County,16233
 8005,CO,Arapahoe County,656590
@@ -314,7 +314,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 8121,CO,Washington County,4908
 8123,CO,Weld County,324492
 8125,CO,Yuma County,10019
-9000,CT,Connecticut,3565287
+9,CT,Connecticut,3565287
 9001,CT,Fairfield County,943332
 9003,CT,Hartford County,891720
 9005,CT,Litchfield County,180333
@@ -323,13 +323,13 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 9011,CT,New London County,265206
 9013,CT,Tolland County,150721
 9015,CT,Windham County,116782
-10000,DE,Delaware,973764
+10,DE,Delaware,973764
 10001,DE,Kent County,180786
 10003,DE,New Castle County,558753
 10005,DE,Sussex County,234225
-11000,DC,District of Columbia,705749
+11,DC,District of Columbia,705749
 11001,DC,District of Columbia,705749
-12000,FL,Florida,21477737
+12,FL,Florida,21477737
 12001,FL,Alachua County,269043
 12003,FL,Baker County,29210
 12005,FL,Bay County,174705
@@ -397,7 +397,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 12129,FL,Wakulla County,33739
 12131,FL,Walton County,74071
 12133,FL,Washington County,25473
-13000,GA,Georgia,10617423
+13,GA,Georgia,10617423
 13001,GA,Appling County,18386
 13003,GA,Atkinson County,8165
 13005,GA,Bacon County,11164
@@ -557,13 +557,13 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 13317,GA,Wilkes County,9777
 13319,GA,Wilkinson County,8954
 13321,GA,Worth County,20247
-15000,HI,Hawaii,1415872
+15,HI,Hawaii,1415872
 15001,HI,Hawaii County,201513
 15003,HI,Honolulu County,974563
 15005,HI,Kalawao County,86
 15007,HI,Kauai County,72293
 15009,HI,Maui County,167417
-16000,ID,Idaho,1787065
+16,ID,Idaho,1787065
 16001,ID,Ada County,481587
 16003,ID,Adams County,4294
 16005,ID,Bannock County,87808
@@ -608,7 +608,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 16083,ID,Twin Falls County,86878
 16085,ID,Valley County,11392
 16087,ID,Washington County,10194
-17000,IL,Illinois,12671821
+17,IL,Illinois,12671821
 17001,IL,Adams County,65435
 17003,IL,Alexander County,5761
 17005,IL,Bond County,16426
@@ -711,7 +711,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 17199,IL,Williamson County,66597
 17201,IL,Winnebago County,282572
 17203,IL,Woodford County,38459
-18000,IN,Indiana,6732219
+18,IN,Indiana,6732219
 18001,IN,Adams County,35777
 18003,IN,Allen County,379299
 18005,IN,Bartholomew County,83779
@@ -804,7 +804,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 18179,IN,Wells County,28296
 18181,IN,White County,24102
 18183,IN,Whitley County,33964
-19000,IA,Iowa,3155070
+19,IA,Iowa,3155070
 19001,IA,Adair County,7152
 19003,IA,Adams County,3602
 19005,IA,Allamakee County,13687
@@ -904,7 +904,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 19193,IA,Woodbury County,103107
 19195,IA,Worth County,7381
 19197,IA,Wright County,12562
-20000,KS,Kansas,2913314
+20,KS,Kansas,2913314
 20001,KS,Allen County,12369
 20003,KS,Anderson County,7858
 20005,KS,Atchison County,16073
@@ -1010,7 +1010,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 20205,KS,Wilson County,8525
 20207,KS,Woodson County,3138
 20209,KS,Wyandotte County,165429
-21000,KY,Kentucky,4467673
+21,KY,Kentucky,4467673
 21001,KY,Adair County,19202
 21003,KY,Allen County,21315
 21005,KY,Anderson County,22747
@@ -1131,7 +1131,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 21235,KY,Whitley County,36264
 21237,KY,Wolfe County,7157
 21239,KY,Woodford County,26734
-22000,LA,Louisiana,4648794
+22,LA,Louisiana,4648794
 22001,LA,Acadia Parish,62045
 22003,LA,Allen Parish,25627
 22005,LA,Ascension Parish,126604
@@ -1196,7 +1196,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 22123,LA,West Carroll Parish,10830
 22125,LA,West Feliciana Parish,15568
 22127,LA,Winn Parish,13904
-23000,ME,Maine,1344212
+23,ME,Maine,1344212
 23001,ME,Androscoggin County,108277
 23003,ME,Aroostook County,67055
 23005,ME,Cumberland County,295003
@@ -1213,7 +1213,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 23027,ME,Waldo County,39715
 23029,ME,Washington County,31379
 23031,ME,York County,207641
-24000,MD,Maryland,6045680
+24,MD,Maryland,6045680
 24001,MD,Allegany County,70416
 24003,MD,Anne Arundel County,579234
 24005,MD,Baltimore County,827370
@@ -1238,7 +1238,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 24045,MD,Wicomico County,103609
 24047,MD,Worcester County,52276
 24510,MD,Baltimore city,593490
-25000,MA,Massachusetts,6892503
+25,MA,Massachusetts,6892503
 25001,MA,Barnstable County,212990
 25003,MA,Berkshire County,124944
 25005,MA,Bristol County,565217
@@ -1253,7 +1253,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 25023,MA,Plymouth County,521202
 25025,MA,Suffolk County,803907
 25027,MA,Worcester County,830622
-26000,MI,Michigan,9986857
+26,MI,Michigan,9986857
 26001,MI,Alcona County,10405
 26003,MI,Alger County,9108
 26005,MI,Allegan County,118081
@@ -1337,7 +1337,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 26161,MI,Washtenaw County,367601
 26163,MI,Wayne County,1749343
 26165,MI,Wexford County,33631
-27000,MN,Minnesota,5639632
+27,MN,Minnesota,5639632
 27001,MN,Aitkin County,15886
 27003,MN,Anoka County,356921
 27005,MN,Becker County,34423
@@ -1425,7 +1425,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 27169,MN,Winona County,50484
 27171,MN,Wright County,138377
 27173,MN,Yellow Medicine County,9709
-28000,MS,Mississippi,2976149
+28,MS,Mississippi,2976149
 28001,MS,Adams County,30693
 28003,MS,Alcorn County,36953
 28005,MS,Amite County,12297
@@ -1508,7 +1508,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 28159,MS,Winston County,17955
 28161,MS,Yalobusha County,12108
 28163,MS,Yazoo County,29690
-29000,MO,Missouri,6137428
+29,MO,Missouri,6137428
 29001,MO,Adair County,25343
 29003,MO,Andrew County,17712
 29005,MO,Atchison County,5143
@@ -1624,7 +1624,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 29227,MO,Worth County,2013
 29229,MO,Wright County,18289
 29510,MO,St. Louis city,300576
-30000,MT,Montana,1068778
+30,MT,Montana,1068778
 30001,MT,Beaverhead County,9453
 30003,MT,Big Horn County,13319
 30005,MT,Blaine County,6681
@@ -1681,7 +1681,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 30107,MT,Wheatland County,2126
 30109,MT,Wibaux County,969
 30111,MT,Yellowstone County,161300
-31000,NE,Nebraska,1934408
+31,NE,Nebraska,1934408
 31001,NE,Adams County,31363
 31003,NE,Antelope County,6298
 31005,NE,Arthur County,463
@@ -1775,7 +1775,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 31181,NE,Webster County,3487
 31183,NE,Wheeler County,783
 31185,NE,York County,13679
-32000,NV,Nevada,3080156
+32,NV,Nevada,3080156
 32001,NV,Churchill County,24909
 32003,NV,Clark County,2266715
 32005,NV,Douglas County,48905
@@ -1793,7 +1793,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 32031,NV,Washoe County,471519
 32033,NV,White Pine County,9580
 32510,NV,Carson City,55916
-33000,NH,New Hampshire,1359711
+33,NH,New Hampshire,1359711
 33001,NH,Belknap County,61303
 33003,NH,Carroll County,48910
 33005,NH,Cheshire County,76085
@@ -1804,7 +1804,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 33015,NH,Rockingham County,309769
 33017,NH,Strafford County,130633
 33019,NH,Sullivan County,43146
-34000,NJ,New Jersey,8882190
+34,NJ,New Jersey,8882190
 34001,NJ,Atlantic County,263670
 34003,NJ,Bergen County,932202
 34005,NJ,Burlington County,445349
@@ -1826,7 +1826,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 34037,NJ,Sussex County,140488
 34039,NJ,Union County,556341
 34041,NJ,Warren County,105267
-35000,NM,New Mexico,2096829
+35,NM,New Mexico,2096829
 35001,NM,Bernalillo County,679121
 35003,NM,Catron County,3527
 35005,NM,Chaves County,64615
@@ -1860,7 +1860,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 35057,NM,Torrance County,15461
 35059,NM,Union County,4059
 35061,NM,Valencia County,76688
-36000,NY,New York,19453561
+36,NY,New York,19453561
 36001,NY,Albany County,305506
 36003,NY,Allegany County,46091
 36005,NY,Bronx County,1418207
@@ -1923,7 +1923,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 36119,NY,Westchester County,967506
 36121,NY,Wyoming County,39859
 36123,NY,Yates County,24913
-37000,NC,North Carolina,10488084
+37,NC,North Carolina,10488084
 37001,NC,Alamance County,169509
 37003,NC,Alexander County,37497
 37005,NC,Alleghany County,11137
@@ -2024,7 +2024,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 37195,NC,Wilson County,81801
 37197,NC,Yadkin County,37667
 37199,NC,Yancey County,18069
-38000,ND,North Dakota,762062
+38,ND,North Dakota,762062
 38001,ND,Adams County,2216
 38003,ND,Barnes County,10415
 38005,ND,Benson County,6832
@@ -2078,7 +2078,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 38101,ND,Ward County,67641
 38103,ND,Wells County,3834
 38105,ND,Williams County,37589
-39000,OH,Ohio,11689100
+39,OH,Ohio,11689100
 39001,OH,Adams County,27698
 39003,OH,Allen County,102351
 39005,OH,Ashland County,53484
@@ -2167,7 +2167,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 39171,OH,Williams County,36692
 39173,OH,Wood County,130817
 39175,OH,Wyandot County,21772
-40000,OK,Oklahoma,3956971
+40,OK,Oklahoma,3956971
 40001,OK,Adair County,22194
 40003,OK,Alfalfa County,5702
 40005,OK,Atoka County,13758
@@ -2245,7 +2245,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 40149,OK,Washita County,10916
 40151,OK,Woods County,8793
 40153,OK,Woodward County,20211
-41000,OR,Oregon,4217737
+41,OR,Oregon,4217737
 41001,OR,Baker County,16124
 41003,OR,Benton County,93053
 41005,OR,Clackamas County,418187
@@ -2282,7 +2282,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 41067,OR,Washington County,601592
 41069,OR,Wheeler County,1332
 41071,OR,Yamhill County,107100
-42000,PA,Pennsylvania,12801989
+42,PA,Pennsylvania,12801989
 42001,PA,Adams County,103009
 42003,PA,Allegheny County,1216045
 42005,PA,Armstrong County,64735
@@ -2350,13 +2350,13 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 42129,PA,Westmoreland County,348899
 42131,PA,Wyoming County,26794
 42133,PA,York County,449058
-44000,RI,Rhode Island,1059361
+44,RI,Rhode Island,1059361
 44001,RI,Bristol County,48479
 44003,RI,Kent County,164292
 44005,RI,Newport County,82082
 44007,RI,Providence County,638931
 44009,RI,Washington County,125577
-45000,SC,South Carolina,5148714
+45,SC,South Carolina,5148714
 45001,SC,Abbeville County,24527
 45003,SC,Aiken County,170872
 45005,SC,Allendale County,8688
@@ -2403,7 +2403,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 45087,SC,Union County,27316
 45089,SC,Williamsburg County,30368
 45091,SC,York County,280979
-46000,SD,South Dakota,884659
+46,SD,South Dakota,884659
 46003,SD,Aurora County,2751
 46005,SD,Beadle County,18453
 46007,SD,Bennett County,3365
@@ -2470,7 +2470,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 46129,SD,Walworth County,5435
 46135,SD,Yankton County,22814
 46137,SD,Ziebach County,2756
-47000,TN,Tennessee,6829174
+47,TN,Tennessee,6829174
 47001,TN,Anderson County,76978
 47003,TN,Bedford County,49713
 47005,TN,Benton County,16160
@@ -2566,7 +2566,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 47185,TN,White County,27345
 47187,TN,Williamson County,238412
 47189,TN,Wilson County,144657
-48000,TX,Texas,28995881
+48,TX,Texas,28995881
 48001,TX,Anderson County,57735
 48003,TX,Andrews County,18705
 48005,TX,Angelina County,86715
@@ -2821,7 +2821,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 48503,TX,Young County,18010
 48505,TX,Zapata County,14179
 48507,TX,Zavala County,11840
-49000,UT,Utah,3205958
+49,UT,Utah,3205958
 49001,UT,Beaver County,6710
 49003,UT,Box Elder County,56046
 49005,UT,Cache County,128289
@@ -2851,7 +2851,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 49053,UT,Washington County,177556
 49055,UT,Wayne County,2711
 49057,UT,Weber County,260213
-50000,VT,Vermont,623989
+50,VT,Vermont,623989
 50001,VT,Addison County,36777
 50003,VT,Bennington County,35470
 50005,VT,Caledonia County,29993
@@ -2866,7 +2866,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 50023,VT,Washington County,58409
 50025,VT,Windham County,42222
 50027,VT,Windsor County,55062
-51000,VA,Virginia,8535519
+51,VA,Virginia,8535519
 51001,VA,Accomack County,32316
 51003,VA,Albemarle County,109330
 51005,VA,Alleghany County,14860
@@ -3000,7 +3000,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 51820,VA,Waynesboro city,22630
 51830,VA,Williamsburg city,14954
 51840,VA,Winchester city,28078
-53000,WA,Washington,7614893
+53,WA,Washington,7614893
 53001,WA,Adams County,19983
 53003,WA,Asotin County,22582
 53005,WA,Benton County,204390
@@ -3040,7 +3040,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 53073,WA,Whatcom County,229247
 53075,WA,Whitman County,50104
 53077,WA,Yakima County,250873
-54000,WV,West Virginia,1792147
+54,WV,West Virginia,1792147
 54001,WV,Barbour County,16441
 54003,WV,Berkeley County,119171
 54005,WV,Boone County,21457
@@ -3096,7 +3096,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 54105,WV,Wirt County,5821
 54107,WV,Wood County,83518
 54109,WV,Wyoming County,20394
-55000,WI,Wisconsin,5822434
+55,WI,Wisconsin,5822434
 55001,WI,Adams County,20220
 55003,WI,Ashland County,15562
 55005,WI,Barron County,45244
@@ -3169,7 +3169,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 55137,WI,Waushara County,24443
 55139,WI,Winnebago County,171907
 55141,WI,Wood County,72999
-56000,WY,Wyoming,578759
+56,WY,Wyoming,578759
 56001,WY,Albany County,38880
 56003,WY,Big Horn County,11790
 56005,WY,Campbell County,46341
@@ -3193,7 +3193,7 @@ FIPStxt,State,Area_Name,POP_ESTIMATE_2019
 56041,WY,Uinta County,20226
 56043,WY,Washakie County,7805
 56045,WY,Weston County,6927
-72000,PR,Puerto Rico,3193694
+72,PR,Puerto Rico,3193694
 72001,PR,"Adjuntas Municipio, Puerto Rico",17363
 72003,PR,"Aguada Municipio, Puerto Rico",36694
 72005,PR,"Aguadilla Municipio, Puerto Rico",50265
