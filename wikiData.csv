@@ -17,7 +17,7 @@ Iowa,2020-03-9,null,null,10 or more,No,Yes (remainder of term),Yes,Yes,Yes
 Kansas,2020-03-9,2020-03-30,2020-05-03,10 or more,Limited quarantine,Yes (remainder of term),No,Yes,Yes
 Kentucky,2020-03-6,2020-03-26,null,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
 Louisiana,2020-03-11,2020-03-23,2020-05-15,11 or more,No,Yes (remainder of term),Yes,Yes,Yes
-Maine,2020-03-15,2020-04-2,2020-04-31,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Restricted
+Maine,2020-03-15,2020-04-2,2020-04-30,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Restricted
 Maryland,2020-03-5,2020-03-30,2020-05-15,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
 Massachusetts,2020-03-10,2020-03-24,2020-05-04,11 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
 Michigan,2020-03-11,2020-03-24,2020-05-15,All,No,Yes (remainder of term),Yes,Yes,Yes
@@ -45,7 +45,7 @@ Texas,2020-03-13,2020-04-2,2020-04-30,10 or more,Limited quarantine,Yes (remaind
 Utah,2020-03-6,null,null,10 or more,No,Yes (remainder of term),Yes,Yes,Regional
 Vermont,2020-03-16,2020-03-25,2020-05-15,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,Yes
 Virginia,2020-03-12,2020-03-30,2020-06-10,10 or more,No,Yes (remainder of term),Yes,Yes,Restricted
-Washington,February 29,2020-03-23,2020-05-04,All,No,Yes (remainder of term),Yes,Yes,Yes
+Washington,2020-02-29,2020-03-23,2020-05-04,All,No,Yes (remainder of term),Yes,Yes,Yes
 West Virginia,2020-03-4,2020-03-23,2020-05-4,All,No,Yes (remainder of term),Yes,Yes,Yes
 Wisconsin,2020-03-12,2020-03-25,2020-05-26,All,Mandatory quarantine,Yes (remainder of term),Restricted,Yes,Yes
 Wyoming,2020-03-12,2020-03-28,2020-04-17,10 or more,Mandatory quarantine,Yes (remainder of term),Yes,Yes,No
