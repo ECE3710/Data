@@ -10,5 +10,9 @@ The population estimate was then edited into a CSV by copying and pasting state,
 Reopening data was taken from the [New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html) as well as multiple sources on [Wikipedia](https://en.wikipedia.org/wiki/U.S._state_and_local_government_response_to_the_COVID-19_pandemic).
 
 The Forecasted folder holds CSVs for the predicted values for each state
+
 The Graphs folder holds the graph images of the predicted values compared with the actual values for each state
+
 The Region_Graphs folder holds the graph images of the seperate regions
+
+The Region_Data folder holds the CSV files for the indivdual regions as well as the region averages
